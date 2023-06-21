@@ -30,6 +30,8 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-Next run in terminal
+### Next run in terminal
 
+```js
 adonis fetch:crypto-data
+```
